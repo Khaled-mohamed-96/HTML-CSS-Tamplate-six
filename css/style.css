@@ -104,6 +104,7 @@ nav {
     left: 0;
     width: 100%;
     background-color: #161718;
+    padding: 20px 0 ;
 }
 nav .container ul { 
     display: flex;
