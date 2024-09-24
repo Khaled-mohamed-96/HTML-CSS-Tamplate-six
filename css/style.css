@@ -248,6 +248,10 @@ nav i:hover {
     position: relative;
     cursor: pointer;
 }
+@media (max-width : 767px ) { 
+	.home .content-home .btn { 
+		width : 173px
+}
 .home .content-home .btn::before { 
     content: "" ; 
     position: absolute;
