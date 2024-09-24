@@ -445,7 +445,7 @@ font-style: initial;
         
     }
 }
-@media (min-width : 300px) and (max-width : 1199px) { 
+@media (min-width : 767px) and (max-width : 1199px) { 
     .works .works-container .image-box  {
         width: 50%;
         height:390px;
